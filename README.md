@@ -1,6 +1,6 @@
 # SOV-CAD
 
-The official implementation of SOV-CAD: Stepwise Orthographic Views Guided CAD Modeling Sequence Reconstruction via Offline Reinforcement Learning.
+The official implementation of SOV-CAD: Stepwise Orthographic Views Guided CAD Modeling Sequence Reconstruction.
 
 The code is for paper review only.
 
